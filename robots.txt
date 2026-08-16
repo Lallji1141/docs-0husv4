@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-hxkyri.ridlerlandscapes.co.nz/sitemap.xml
